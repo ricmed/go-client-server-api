@@ -1,0 +1,1 @@
+- Api para consulta da cotação do Dólar
